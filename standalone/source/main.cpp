@@ -19,6 +19,10 @@ auto main(int argc, char** argv) -> int {
   std::string language;
   std::string name;
 
+
+  std::cout << "\n\nHallo Michael!!\n";
+  std::cout << "\n\nHallo Michael!!\n";
+
   // clang-format off
   options.add_options()
     ("h,help", "Show help")
